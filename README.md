@@ -7,7 +7,7 @@
 
 ## 🌟 About Me
 
-Hey there! I'm a **Frontend Developer** with a deep passion for crafting beautiful, high-performance web and mobile applications. With over **3 years of experience** in building seamless, responsive UIs, I specialize in **React**, **Next.js**, and **React Native** to deliver exceptional user experiences.
+Hey there! I'm a **Frontend Developer** with a deep passion for crafting beautiful, high-performance web and mobile applications. With over **4 years of experience** in building seamless, responsive UIs, I specialize in **React**, **Next.js**, and **React Native** to deliver exceptional user experiences.
 
 I’m a problem-solver at heart, constantly experimenting with new technologies and approaches to make web and mobile development faster, smoother, and more intuitive. Whether it's integrating complex **APIs** or fine-tuning UI/UX designs, I focus on creating applications that are not only functional but also delightful to use.
 
